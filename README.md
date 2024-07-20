@@ -67,4 +67,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/
+docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Here are some of the screenshots of the provided project
+The Home Page ---------->
+![Screenshot (2)](https://github.com/user-attachments/assets/553b5d4d-34d2-4c9b-b006-f9649a9548c1)
+
+Page after when a todo-list is added ----------->
+![Screenshot (3)](https://github.com/user-attachments/assets/93b39278-8a27-4ae3-8f9f-bc2c9a6abe4d)
+
+You can mark them as completed by clicking the red check button a line-through can be seen --------->
+![Screenshot (4)](https://github.com/user-attachments/assets/ef7845f5-1a09-4847-86b3-95916714b941)
+
+If you want to change/edit the todo-list you can do it by simply pressing the pencil icon that you want to change this list --------->
+![Screenshot (5)](https://github.com/user-attachments/assets/02e8892f-bb98-4fdf-9f95-c733614b5898)
+
+After editing the list appears to be like this ----------->
+![Screenshot (6)](https://github.com/user-attachments/assets/a5886d88-3d8e-4723-8c17-04d70bc7bfa8)
+
+This whole CRUD operation are done on the local storage --------------->
+![Screenshot (7)](https://github.com/user-attachments/assets/33f05a33-c77d-4abf-9c17-09461fb9d5a4)
